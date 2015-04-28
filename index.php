@@ -1,25 +1,9 @@
-<?php 
+<?php
 	$pageTitle = "My Condo Value | Home";
 	$description = "";
 	include('inc/header.php'); ?>
 		<!--head libs-->
-		<script src="js/jquery-2.1.0.min.js"></script>
-		<script src="plugins/jquery.queryloader2.min.js"></script>
-		<script src="plugins/modernizr.js"></script>
-		<script>
-			$('html').addClass('d_none');
-			$(document).ready(function(){
-				$('html').show();
-				$("body").queryLoader2({
-					backgroundColor: '#fff',
-					barColor : '#35eef6',
-					barHeight: 4,
-					percentage:true,
-					deepSearch:true,
-					minimumTime:1000
-				});
-			});
-		</script>
+
 			<!--revolution slider-->
 			<section class="relative w_full m_bottom_15">
 				<div class="r_slider">
@@ -55,12 +39,12 @@
 								<div class="col-lg-6 col-md-6 col-sm-6 f_none d_table_cell v_align_m d_xs_block m_xs_bottom_30 form_description">
 									<h1 class="color_light fw_light tt_uppercase lh_medium">Welcome to Your Alabama Condo Value Directory</h1>
 									<p class="title_size_1 fw_ex_bold color_light tt_uppercase m_bottom_25">Your Business Now!</p>
-									<p class="m_bottom_30 color_grey_light_3">Quisque diam lorem, interdum. vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. </p> 
+									<p class="m_bottom_30 color_grey_light_3">Quisque diam lorem, interdum. vitae,dapibus ac, scelerisque vitae, pede. Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. </p>
 								</div>
 
 
 
-		
+
 
 						   <div class="caption sfl str" data-x="left" data-y="108" data-speed="700" data-start="1650"><h1 class="color_light fw_light">Think outside<br>the box!</h1></div>
 						   <div class="caption sfl str color_grey_light_3" data-x="left" data-y="243" data-speed="700" data-start="1850">Vestibulum libero nisl, porta vel, scelerisque eget,<br>malesuada at, neque. Etiam cursus leo vel metus.<br>Nulla facilisi. Aenean nec eros. </div>
@@ -74,75 +58,76 @@
 			</section>
 			<!--content-->
 
-				
+
 			<!--our featured projects-->
-			<section class="section_offset relative">
+			<section class="section_offset">
 				<div class="container">
 					<h3 class="color_dark fw_light m_bottom_15 t_align_c" data-appear-animation="bounceInLeft">Select an Area to Discover Your Value Information</h3>
 					<br>
 					<div class="row" data-appear-animation="fadeInUp" data-appear-animation-delay="800">
-						<!--projects carousel-->
-						<div class="owl-carousel" data-nav="fp_nav_" data-plugin-options='{"itemsCustom" : [[992,3],[768,2],[100,1]], "singleItem" : false}'>
+						<!-- <div class="owl-carousel" data-nav="fp_nav_" data-plugin-options='{"itemsCustom" : [[992,3],[768,2],[100,1]], "singleItem" : false}'> -->
 							<!--project-->
+							<div class="row t_align_c">
+								<div class="col-lg-4 col-md-4 col-sm-4 m_xs_bottom_30">
+									<a href="orange-beach.php">
+										<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
+												<figure data-appear-animation="fadeInUp">
+													<img class="m_bottom_30" src="images/beach.jpg" alt="Orange Beach Photo">
+														<div class="popup_buttons tr_all_long">
+															<!-- <a href="orange-beach.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
+																<i class="icon-angle-right"></i>
+															</a> -->
+														</div>
+												</figure>
+										</div>
+									</a>
+										<figcaption class="t_align_c">
+											<h4 class="fw_light fs_middle"><a href="orange-beach.php" class="color_dark">Orange Beach Areas</a></h4>
+										</figcaption>
+								</div>
+							<!--project-->
+								<div class="col-lg-4 col-md-4 col-sm-4 m_xs_bottom_30">
+									<a href="gulf-shores.php">
+										<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
+												<figure data-appear-animation="fadeInUp" class="m_xs_bottom_30">
+													<img class="m_bottom_30" src="images/gs-beach.jpg" alt="Gulf Shores Beaches">
+														<div class="popup_buttons tr_all_long">
+															<!-- <a href="gulf-shores.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
+																<i class="icon-angle-right"></i>
+															</a> -->
+														</div>
+												</figure>
+										</div>
+									</a>
+											<figcaption class="t_align_c">
+												<h4 class="fw_light fs_middle"><a href="gulf-shores.php" class="color_dark">Gulf Shores Areas</a></h4>
+											</figcaption>
+								</div>
+							<!--project-->
+								<div class="col-lg-4 col-md-4 col-sm-4 m_xs_bottom_30">
+									<a href="bayfront.php">
+										<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
+												<figure data-appear-animation="fadeInUp" class="m_xs_bottom_30">
+													<img class="m_bottom_30" src="images/reflect.jpg" alt="Orange Beach Bay Area">
+														<div class="popup_buttons tr_all_long">
+															<!-- <a href="bayfront.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
+																<i class="icon-angle-right"></i>
+															</a> -->
+														</div>
+												</figure>
+										</div>
+									</a>
+											<figcaption class="t_align_c">
+												<h4 class="fw_light fs_middle"><a href="bayfront.php" class="color_dark">Bayfront Condos</a></h4>
+											</figcaption>
+								</div>
 
-								
-
-							<div class="col-lg-12">
-								<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
-									<img src="images/beach.jpg" alt="">
-									<div class="popup_buttons tr_all_long">
-										<a href="orange-beach.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
-											<i class="icon-angle-right"></i>
-										</a>
-									</div>
-								</div>
-								<figcaption class="t_align_c">
-									<h4 class="fw_light fs_middle"><a href="#" class="color_dark">Orange Beach Areas</a></h4>
-											
-								</figcaption> 
 							</div>
-							<!--project-->
-							<div class="col-lg-12">
-								<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
-									<img src="images/gs-beach.jpg" alt="">
-									<div class="popup_buttons tr_all_long">
-										<a href="gulf-shores.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
-											<i class="icon-angle-right"></i>
-										</a>
-									</div>
-								</div>
-								<figcaption class="t_align_c">
-									<h4 class="fw_light fs_middle"><a href="#" class="color_dark">Gulf Shores Areas</a></h4>
-								</figcaption> 
-							</div>
-							<!--project-->
-							<div class="col-lg-12">
-								<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
-									<img src="images/reflect.jpg" alt="">
-									<div class="popup_buttons tr_all_long">
-										<a href="bayfront.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
-											<i class="icon-angle-right"></i>
-										</a>
-									</div>
-								</div>
-								<figcaption class="t_align_c">
-									<h4 class="fw_light fs_middle"><a href="#" class="color_dark">Bayfront Condos</a></h4>
-								</figcaption> 
-							</div>
-							
-						</div>
+						<!-- </div> -->
 					</div>
 				</div>
-				<!--carousel nav-->
-				<button class="icon_wrap_size_4 circle color_grey_light tr_all color_blue_hover fp_nav_prev d_md_none">
-					<i class="icon-left-open-big"></i>
-				</button>
-				<button class="icon_wrap_size_4 circle color_grey_light tr_all color_blue_hover fp_nav_next d_md_none">
-					<i class="icon-right-open-big"></i>
-				</button>
 			</section>
-			
-			
+
+
 			<hr class="divider_type_2">
 			<?php include('inc/footer.php'); ?>
-

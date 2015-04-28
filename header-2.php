@@ -9,7 +9,7 @@
 		<meta name="author" content="">
 		<meta name="keywords" content="">
 		<meta name="description" content="">
-		<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+		<link rel="shortcut icon" type="image/x-icon" href="../images/mcvicon.jpg">
 		<!--web fonts-->
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic' rel='stylesheet' type='text/css'>
 		<!--libs css-->
@@ -25,6 +25,23 @@
 		<link rel="stylesheet" type="text/css" media="all" href="../css/style.css">
 	</head>
 	<body class="sticky_menu">
+			<script src="../js/jquery-2.1.0.min.js"></script>
+			<script src="../plugins/jquery.queryloader2.min.js"></script>
+			<script src="../plugins/modernizr.js"></script>
+			<script>
+				$('html').addClass('d_none');
+				$(document).ready(function(){
+					$('html').show();
+					$("body").queryLoader2({
+						backgroundColor: '#fff',
+						barColor : '#35eef6',
+						barHeight: 4,
+						percentage:true,
+						deepSearch:true,
+						minimumTime:1000
+					});
+				});
+			</script>
 
 
 		<!--layout-->
@@ -39,7 +56,7 @@
 							<!--logo-->
 							<div class="col-lg-2 col-md-2 col-sm-2 d_table_cell d_xs_block f_none v_align_m logo t_xs_align_c">
 								<a href="index.html" class="d_inline_m m_xs_top_20 m_xs_bottom_20">
-									<img src="images/remaxlogo.png" alt="">
+									<img src="../images/mcv-logo.png" alt="My Condo Value Logo">
 								</a>
 							</div>
 							<div class="col-lg-10 col-md-10 col-sm-10 t_align_r d_table_cell d_xs_block f_none">

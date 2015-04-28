@@ -17,15 +17,15 @@
 		<link rel="stylesheet" type="text/css" media="all" href="plugins/owl-carousel/owl.transitions.css">
 		<link rel="stylesheet" type="text/css" media="all" href="plugins/jackbox/css/jackbox.min.css">
 		<link rel="stylesheet" type="text/css" media="screen" href="plugins/rs-plugin/css/settings.css">
-		 
+
 		<!--theme css-->
 		<link rel="stylesheet" type="text/css" media="all" href="css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" media="all" href="css/theme-animate.css">
 		<link rel="stylesheet" type="text/css" media="all" href="css/style.css">
 	</head>
 	<body class="sticky_menu">
-		 
-		
+
+
 		<!--layout-->
 		<div class="boxed_layout bg_light">
 			<!--header markup-->
@@ -38,7 +38,7 @@
 							<!--logo-->
 							<div class="col-lg-2 col-md-2 col-sm-2 d_table_cell d_xs_block f_none v_align_m logo t_xs_align_c">
 								<a href="index.html" class="d_inline_m m_xs_top_20 m_xs_bottom_20">
-									<img src="images/remaxlogo.png" alt="">
+									<img src="images/mcv-logo.png" alt="">
 								</a>
 							</div>
 							<div class="col-lg-10 col-md-10 col-sm-10 t_align_r d_table_cell d_xs_block f_none">
@@ -60,12 +60,12 @@
 											<li class="container3d relative f_xs_none m_xs_bottom_5">
 												<a class="color_dark fs_large relative r_xs_corners" href="orange-beach.php">Orange Beach
 												</a>
-												
+
 											</li>
 											<li class="container3d relative f_xs_none m_xs_bottom_5">
 												<a class="color_dark fs_large relative r_xs_corners" href="bayfront.php">Bayfront
 												</a>
-												
+
 											</li>
 										</ul>
 									</nav>
@@ -142,7 +142,7 @@
 					<h4 class="color_dark fw_light m_bottom_15" data-appear-animation="bounceInLeft">Want To Find Out What Your <?echo $pageTitle; ?> Unit is Worth?</h4>
 						<h4 class="m_bottom_35" data-appear-animation="bounceInLeft" data-appear-animation-delay="150">Let Us Do It For You</h4>
 					<!-- <p class="m_bottom_35" data-appear-animation="bounceInLeft" data-appear-animation-delay="150">Donec eget tellus non erat lacinia fermentum. Donec in velit vel ipsum auctor pulvinar. </p> -->
-					
+
 					<br><br>
 					<div class="row t_align_c">
 						<div class="col-lg-4 col-md-4 col-sm-4 m_xs_bottom_30">
@@ -186,6 +186,3 @@
 					</div>
 				</div>
 			</section>
-
-
-			

@@ -1,4 +1,4 @@
- <?php 
+ <?php
 $pageTitle = "My Condo Value | Gulf Shores";
 $description = "";
 include('inc/header.php'); ?>
@@ -20,67 +20,34 @@ include('inc/header.php'); ?>
 				<table class="responsive_table t_align_l three_columns">
 					<tbody>
 						<tr>
-						<td align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/royalpalms.html"><strong>Royal Palms</strong></a></td>
+						<td align="top">&nbsp;&nbsp;<a href="gulf-shores/royalpalms.php"><strong>Royal Palms</strong></a></td>
 						</tr>
 						<tr>
-						<td align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/colonnades.html"><strong>The Colonnades</strong></a></td>
+						<td align="top">&nbsp;&nbsp;<a href="gulf-shores/colonnades.php"><strong>The Colonnades</strong></a></td>
 						</tr>
 						<tr>
-						<td align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/clearwater.html"><strong>Clearwater</strong></a></td>
+						<td align="top">&nbsp;&nbsp;<a href="gulf-shores/clearwater.php"><strong>Clearwater</strong></a></td>
 						</tr>
 						<tr>
-						<td align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/gulfhouse.html"><strong>Gulf House</strong></a></td>
+						<td align="top">&nbsp;&nbsp;<a href="gulf-shores/gulfhouse.php"><strong>Gulf House</strong></a></td>
 						</tr>
 						<tr>
-						<td align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/whaler.html"><strong>The Whaler</strong></a></td>
+						<td align="top">&nbsp;&nbsp;<a href="gulf-shores/whaler.php"><strong>The Whaler</strong></a></td>
 						</tr>
 						<tr>
-						<td align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/lighthouse.html"><strong>The Lighthouse</strong></a></td>
+						<td align="top">&nbsp;&nbsp;<a href="gulf-shores/lighthouse.php"><strong>The Lighthouse</strong></a></td>
 						</tr>
 						<tr>
-						<td align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/islandsunrise.html"><strong>Island Sunrise</strong></a></td>
+						<td align="top">&nbsp;&nbsp;<a href="gulf-shores/islandsunrise.php"><strong>Island Sunrise</strong></a></td>
 						</tr>
 						<tr>
-						<td align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/islandshores.html"><strong>Island Shores</strong></a></td>
+						<td align="top">&nbsp;&nbsp;<a href="gulf-shores/islandshores.php"><strong>Island Shores</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/harborhouse.html"><strong>Harbor House</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/harborhouse.php"><strong>Harbor House</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/crystalshores.html"><strong>Crystal Shores</strong></a></td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-			<div class="col-md-2">
-				<table class="responsive_table t_align_l three_columns">
-					<tbody>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/crystalshoreswest.html"><strong>Crystal Shores West</strong></a></td>
-						</tr>
-						<tr>
-						<td align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/seawind.html"><strong>Seawind</strong></a></td>
-						</tr>
-						<tr>
-						<td align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/sancarlos.html"><strong>San Carlos</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/boardwalk.html"><strong>Boardwalk</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/castaways.html"><strong>Castaways</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/regatta.html"><strong>Regatta</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/islandwindseast.html"><strong>Island Winds East</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/islandwindswest.html"><strong>Island Winds West</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/tropicisles.html"><strong>Tropic Isles</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/crystalshores.php"><strong>Crystal Shores</strong></a></td>
 						</tr>
 					</tbody>
 				</table>
@@ -89,68 +56,31 @@ include('inc/header.php'); ?>
 				<table class="responsive_table t_align_l three_columns">
 					<tbody>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/southernsands.html"><strong>Southern Sands</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/crystalshoreswest.php"><strong>Crystal Shores West</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/oceanreef.html"><strong>Ocean Reef</strong></a></td>
+						<td align="top">&nbsp;&nbsp;<a href="gulf-shores/seawind.php"><strong>Seawind</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/islandtower.html"><strong>Island Tower</strong></a></td>
+						<td align="top">&nbsp;&nbsp;<a href="gulf-shores/sancarlos.php"><strong>San Carlos</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/driftwoodtowers.html"><strong>Driftwood Towers</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/boardwalk.php"><strong>Boardwalk</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/buenavista.html"><strong>Buena Vista</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/castaways.php"><strong>Castaways</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/gulfsidetownhomes.html"><strong>Gulfside Town Homes</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/regatta.php"><strong>Regatta</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/islandroyale.html"><strong>Island Royale</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/islandwindseast.php"><strong>Island Winds East</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/oceania.html"><strong>Oceania</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/islandwindswest.php"><strong>Island Winds West</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/crystaltower.html"><strong>Crystal Tower</strong></a></td>
-						</tr>
-						
-					</tbody>
-				</table>
-			</div>
-			<div class="col-md-2">
-				<table class="responsive_table t_align_l three_columns">
-					<tbody>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/surfsideshoresI.html"><strong>Surfside Shores I</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/surfsideshoresII.html"><strong>Surfside Shores II</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/edgewater.html"><strong>Edgewater</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/tropicalwinds.html"><strong>Tropical Winds</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/edgewaterwest.html"><strong>Edgewater West</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/legacy.html"><strong>Legacy</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/gulfvillage.html"><strong>Gulf Village</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/caribbean.html"><strong>Caribbean</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/gulftower.html"><strong>Gulf Tower</strong></a></td>
-						</tr>
-						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/sandpiper.html"><strong>Sandpiper</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/tropicisles.php"><strong>Tropic Isles</strong></a></td>
 						</tr>
 					</tbody>
 				</table>
@@ -159,34 +89,68 @@ include('inc/header.php'); ?>
 				<table class="responsive_table t_align_l three_columns">
 					<tbody>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/seacrest.html"><strong>Sea Crest</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/southernsands.php"><strong>Southern Sands</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/beachfront.html"><strong>Beachfront</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/oceanreef.php"><strong>Ocean Reef</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/sunchase.html"><strong>Sun Chase</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/islandtower.php"><strong>Island Tower</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/sundial.html"><strong>Sun Dial</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/driftwoodtowers.php"><strong>Driftwood Towers</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/sunrise.html"><strong>Sunrise Village</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/buenavista.php"><strong>Buena Vista</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/sanibel.html"><strong>Sanibel</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/gulfsidetownhomes.php"><strong>Gulfside Town Homes</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/belsole.html"><strong>Bel Sole</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/islandroyale.php"><strong>Island Royale</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/lagoontower.html"><strong>Lagoon Tower</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/oceania.php"><strong>Oceania</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/spyglass.html"><strong>Spy Glass</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/crystaltower.php"><strong>Crystal Tower</strong></a></td>
+						</tr>
+
+					</tbody>
+				</table>
+			</div>
+			<div class="col-md-2">
+				<table class="responsive_table t_align_l three_columns">
+					<tbody>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/surfsideshoresI.php"><strong>Surfside Shores I</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/casadelsol.html"><strong>Casa Del Sol</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/surfsideshoresII.php"><strong>Surfside Shores II</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/edgewater.php"><strong>Edgewater</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/tropicalwinds.php"><strong>Tropical Winds</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/edgewaterwest.php"><strong>Edgewater West</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/legacy.php"><strong>Legacy</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/gulfvillage.php"><strong>Gulf Village</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/caribbean.php"><strong>Caribbean</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/gulftower.php"><strong>Gulf Tower</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/sandpiper.php"><strong>Sandpiper</strong></a></td>
 						</tr>
 					</tbody>
 				</table>
@@ -195,34 +159,70 @@ include('inc/header.php'); ?>
 				<table class="responsive_table t_align_l three_columns">
 					<tbody>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/seaoats.html"><strong>Sea Oats</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/seacrest.php"><strong>Sea Crest</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/mustique.html"><strong>Mustique</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/beachfront.php"><strong>Beachfront</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/martinique.html"><strong>Martinique</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/sunchase.php"><strong>Sun Chase</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/beachclub.html"><strong>The Beach Club</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/sundial.php"><strong>Sun Dial</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/navycove.html"><strong>Navy Cove</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/sunrise.php"><strong>Sunrise Village</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/dunes.html"><strong>The Dunes</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/sanibel.php"><strong>Sanibel</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/indies.html"><strong>The Indies</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/belsole.php"><strong>Bel Sole</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/oceanhousei.html"><strong>Ocean House I</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/lagoontower.php"><strong>Lagoon Tower</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/oceanhouseii.html"><strong>Ocean House II</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/spyglass.php"><strong>Spy Glass</strong></a></td>
 						</tr>
 						<tr>
-						<td  align="top">&nbsp;&nbsp;<a href="http://www.mycondovalue.info/westwind.html"><strong>Westwind</strong></a></td>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/casadelsol.php"><strong>Casa Del Sol</strong></a></td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="col-md-2">
+				<table class="responsive_table t_align_l three_columns">
+					<tbody>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/seaoats.php"><strong>Sea Oats</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/mustique.php"><strong>Mustique</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/martinique.php"><strong>Martinique</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/beachclub.php"><strong>The Beach Club</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/navycove.php"><strong>Navy Cove</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/dunes.php"><strong>The Dunes</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/indies.php"><strong>The Indies</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/oceanhousei.php"><strong>Ocean House I</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/oceanhouseii.php"><strong>Ocean House II</strong></a></td>
+						</tr>
+						<tr>
+						<td  align="top">&nbsp;&nbsp;<a href="gulf-shores/westwind.php"><strong>Westwind</strong></a></td>
 						</tr>
 					</tbody>
 				</table>
@@ -234,4 +234,3 @@ include('inc/header.php'); ?>
 		<div class="row">&nbsp;</div>
 
 <?php include('inc/footer.php'); ?>
-

@@ -1,4 +1,4 @@
-			
+
 			<footer role="contentinfo" class="bg_light_3 p_top_0 p_bottom_0">
 				<!--bottom part-->
 				<section class="footer_bottom_part "><!-- t_align_l color_grey bg_light_4 fw_light -->
@@ -34,12 +34,10 @@
 		<script src="plugins/owl-carousel/owl.carousel.min.js"></script>
 		<script src="plugins/flickr.js"></script>
 		<script src="plugins/isotope.pkgd.min.js"></script>
-		 
+
 
 		<!--Theme Initializer-->
 		<script src="js/theme.plugins.js"></script>
 		<script src="js/theme.js"></script>
 	</body>
 </html>
-
-		
