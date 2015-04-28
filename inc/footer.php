@@ -3,15 +3,16 @@
 				<!--bottom part-->
 				<section class="footer_bottom_part "><!-- t_align_l color_grey bg_light_4 fw_light -->
 					<div class="row">
-					<!-- <div class="col-md-1">&nbsp;</div> -->
+						<!-- <div class="col-md-1">&nbsp;</div> -->
 						<div class="col-md-12">
 							<p class="color_grey fw_light">&nbsp;&nbsp;&nbsp;Provided by The Premiere Team and RE/MAX of Orange Beach.&nbsp;Design by <a href="http://hsdesignhouse.com/">High Seas Design House</a></p>
 						</div>
-						<!-- <div class="col-md-5">
-							</p>
-						</div>
+								<!-- <div class="col-md-5">
+									</p>
+								</div>
+							</div>
+							<div class="col-md-1">&nbsp;</div> -->
 					</div>
-					<div class="col-md-1">&nbsp;</div> -->
 				</section>
 			</footer>
 		<!-- </div> -->

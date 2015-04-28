@@ -73,19 +73,23 @@
 				</div>
 			</section>
 			<!--content-->
-			
+
+				
 			<!--our featured projects-->
 			<section class="section_offset relative">
 				<div class="container">
-					<!-- <h3 class="color_dark fw_light m_bottom_15 t_align_c" data-appear-animation="bounceInLeft">Our Featured Projects</h3> -->
-					<!-- <p class="m_bottom_35 t_align_c" data-appear-animation="bounceInLeft" data-appear-animation-delay="150">Suspendisse sollicitudin velit sed leo. Ut pharetra augue nec augue. Nam elit agna,endrerit sit amet, tincidunt ac, viverra sed, nulla.</p> -->
+					<h3 class="color_dark fw_light m_bottom_15 t_align_c" data-appear-animation="bounceInLeft">Select an Area to Discover Your Value Information</h3>
+					<br>
 					<div class="row" data-appear-animation="fadeInUp" data-appear-animation-delay="800">
 						<!--projects carousel-->
 						<div class="owl-carousel" data-nav="fp_nav_" data-plugin-options='{"itemsCustom" : [[992,3],[768,2],[100,1]], "singleItem" : false}'>
 							<!--project-->
+
+								
+
 							<div class="col-lg-12">
 								<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
-									<img src="images/oba.jpg" alt="">
+									<img src="images/beach.jpg" alt="">
 									<div class="popup_buttons tr_all_long">
 										<a href="orange-beach.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
 											<i class="icon-angle-right"></i>
@@ -100,7 +104,7 @@
 							<!--project-->
 							<div class="col-lg-12">
 								<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
-									<img src="images/gs.jpg" alt="">
+									<img src="images/gs-beach.jpg" alt="">
 									<div class="popup_buttons tr_all_long">
 										<a href="gulf-shores.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
 											<i class="icon-angle-right"></i>
@@ -114,7 +118,7 @@
 							<!--project-->
 							<div class="col-lg-12">
 								<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
-									<img src="images/bay.jpg" alt="">
+									<img src="images/reflect.jpg" alt="">
 									<div class="popup_buttons tr_all_long">
 										<a href="bayfront.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
 											<i class="icon-angle-right"></i>
