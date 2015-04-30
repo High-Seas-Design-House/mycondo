@@ -23,8 +23,9 @@
 		<link rel="stylesheet" type="text/css" media="all" href="css/theme-animate.css">
 		<link rel="stylesheet" type="text/css" media="all" href="css/style.css">
 	</head>
-	<body class="sticky_menu">
-
+	<!-- <body class="sticky_menu"> -->
+		<body>
+					
 	<script src="js/jquery-2.1.0.min.js"></script>
 	<script src="plugins/jquery.queryloader2.min.js"></script>
 	<script src="plugins/modernizr.js"></script>
@@ -48,7 +49,7 @@
 		<div class="boxed_layout bg_light">
 			<!--header markup-->
 			<header role="banner" class="relative">
-				<span class="gradient_line"></span>
+				<!-- <span class="gradient_line"></span> -->
 				<!--top part-->
 		
 				<!--header bottom part-->
@@ -91,8 +92,8 @@
 									</nav>
 									<!--searchform button-->
 									<div class="relative d_inline_m search_buttons d_xs_none">
-										<button class="icon_wrap_size_2 circle color_grey_light_2 tr_all color_purple_hover"><i class="icon-cancel"></i></button>
-										<button class="icon_wrap_size_2 active circle color_grey_light_2 tr_all color_purple_hover"><i class="icon-search"></i></button>
+										<button class="icon_wrap_size_2 circle color_grey_light_2 tr_all color_blue_hover"><i class="icon-cancel"></i></button>
+										<button class="icon_wrap_size_2 active circle color_grey_light_2 tr_all color_blue_hover"><i class="icon-search"></i></button>
 									</div>
 									<!--searchform-->
 									<form role="search" class="bg_light animate_ vc_child t_align_r fw_light tr_all trf_xs_none">

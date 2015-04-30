@@ -73,11 +73,11 @@
 										<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
 												<figure data-appear-animation="fadeInUp">
 													<img class="m_bottom_30" src="images/beach.jpg" alt="Orange Beach Photo">
-														<div class="popup_buttons tr_all_long">
-															<!-- <a href="orange-beach.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
+														<!-- <div class="popup_buttons tr_all_long">
+															<a href="orange-beach.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
 																<i class="icon-angle-right"></i>
-															</a> -->
-														</div>
+															</a>
+														</div> -->
 												</figure>
 										</div>
 									</a>
@@ -89,13 +89,13 @@
 								<div class="col-lg-4 col-md-4 col-sm-4 m_xs_bottom_30">
 									<a href="gulf-shores.php">
 										<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
-												<figure data-appear-animation="fadeInUp" class="m_xs_bottom_30">
+												<figure data-appear-animation="fadeInUp">
 													<img class="m_bottom_30" src="images/gs-beach.jpg" alt="Gulf Shores Beaches">
-														<div class="popup_buttons tr_all_long">
-															<!-- <a href="gulf-shores.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
+														<!-- <div class="popup_buttons tr_all_long">
+															 <a href="gulf-shores.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
 																<i class="icon-angle-right"></i>
-															</a> -->
-														</div>
+															</a>
+														</div> -->
 												</figure>
 										</div>
 									</a>
@@ -107,13 +107,13 @@
 								<div class="col-lg-4 col-md-4 col-sm-4 m_xs_bottom_30">
 									<a href="bayfront.php">
 										<div class="popup_wrap relative wrapper m_bottom_20 d_xs_inline_b d_mxs_block">
-												<figure data-appear-animation="fadeInUp" class="m_xs_bottom_30">
+												<figure data-appear-animation="fadeInUp">
 													<img class="m_bottom_30" src="images/reflect.jpg" alt="Orange Beach Bay Area">
-														<div class="popup_buttons tr_all_long">
-															<!-- <a href="bayfront.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
+														<!-- <div class="popup_buttons tr_all_long">
+															<a href="bayfront.php" class="icon_wrap_size_3 color_light n_sc_hover d_block circle f_left">
 																<i class="icon-angle-right"></i>
-															</a> -->
-														</div>
+															</a>
+														</div> -->
 												</figure>
 										</div>
 									</a>
@@ -129,5 +129,5 @@
 			</section>
 
 
-			<hr class="divider_type_2">
+			<!-- <hr class="divider_type_2"> -->
 			<?php include('inc/footer.php'); ?>

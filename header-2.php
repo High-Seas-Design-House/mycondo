@@ -12,6 +12,7 @@
 		<link rel="shortcut icon" type="image/x-icon" href="../images/mcvicon.jpg">
 		<!--web fonts-->
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Acme|Lusitana:400,700' rel='stylesheet' type='text/css'>
 		<!--libs css-->
 		<link rel="stylesheet" type="text/css" media="all" href="../plugins/owl-carousel/owl.carousel.css">
 		<link rel="stylesheet" type="text/css" media="all" href="../plugins/owl-carousel/owl.transitions.css">
@@ -24,7 +25,8 @@
 		<!-- <link rel="stylesheet" type="text/css" media="all" href="css/style.css"> -->
 		<link rel="stylesheet" type="text/css" media="all" href="../css/style.css">
 	</head>
-	<body class="sticky_menu">
+	<!-- <body class="sticky_menu"> -->
+		<body>
 			<script src="../js/jquery-2.1.0.min.js"></script>
 			<script src="../plugins/jquery.queryloader2.min.js"></script>
 			<script src="../plugins/modernizr.js"></script>
@@ -48,7 +50,7 @@
 		<div class="boxed_layout bg_light">
 			<!--header markup-->
 			<header role="banner" class="relative">
-				<span class="gradient_line"></span>
+				<!-- <span class="divider_type_3"></span> -->
 				<!--header bottom part-->
 				<section class="header_bottom_part bg_light">
 					<div class="container">
@@ -65,7 +67,7 @@
 										<i class="icon-menu"></i>
 									</button>
 									<!--main navigation-->
-									<nav role="navigation" class="d_inline_m d_xs_none m_xs_right_0 m_right_15 t_align_l m_xs_bottom_15">
+									<nav role="navigation" class="d_inline_m d_xs_none m_xs_right_0 m_right_15 t_align_l m_xs_bottom_10">
 										<ul class="hr_list main_menu fw_light">
 											<li class="current container3d relative f_xs_none m_xs_bottom_5">
 												<a class="color_dark fs_large relative r_xs_corners" href="../index.php">Home
@@ -89,8 +91,8 @@
 									</nav>
 									<!--searchform button-->
 									<div class="relative d_inline_m search_buttons d_xs_none">
-										<button class="icon_wrap_size_2 circle color_grey_light_2 tr_all color_purple_hover"><i class="icon-cancel"></i></button>
-										<button class="icon_wrap_size_2 active circle color_grey_light_2 tr_all color_purple_hover"><i class="icon-search"></i></button>
+										<button class="icon_wrap_size_2 circle color_grey_light_2 tr_all color_blue_hover"><i class="icon-cancel"></i></button>
+										<button class="icon_wrap_size_2 active circle color_grey_light_2 tr_all color_blue_hover"><i class="icon-search"></i></button>
 									</div>
 									<!--searchform-->
 									<form role="search" class="bg_light animate_ vc_child t_align_r fw_light tr_all trf_xs_none">
@@ -103,12 +105,12 @@
 				</section>
 			</header>
 
+
 			<section class="page_title_2 bg_gradient t_align_c relative wrapper">
 				<div class="container">
 					<h1 class="color_light fw_light m_bottom_5"> <?php echo $pageTitle; ?> </h1>
 				</div>
 			</section>
-
 
 			<div class="section_offset" style="background-color:#ececec;">
 				<div class="container clearfix">
@@ -134,14 +136,14 @@
 													<input type="text" name="" placeholder="Name" class="r_corners bg_light w_full border_none">
 												</li>
 												<li class="t_align_c">
-													<button class="button_type_3 d_inline_b color_purple r_corners tr_all fw_light">Submit</button>
+													<button class="button_type_3 d_inline_b color_blue r_corners tr_all fw_light">Submit</button>
 												</li>
 											</ul>
 										</form>
 										<br><br>
 											<div class="t_align_c">
 												<h5 class="color_dark m_bottom_20">Call Today For a Special Offer:</h5>
-													<div class="d_inline_m icon_wrap_size_1 color_pink circle m_right_10">
+													<div class="d_inline_m icon_wrap_size_1 color_blue circle m_right_10">
 														<i class="icon-phone-1"></i>
 													</div>
 													855-LISTN4U(547-8648)
