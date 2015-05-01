@@ -11,7 +11,9 @@
 		<meta name="description" content="">
 		<link rel="shortcut icon" type="image/x-icon" href="images/mcvicon.jpg">
 		<!--web fonts-->
+		<!-- <link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic' rel='stylesheet' type='text/css'> -->
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Acme|Lusitana:400,700' rel='stylesheet' type='text/css'>
 		<!--libs css-->
 		<link rel="stylesheet" type="text/css" media="all" href="plugins/owl-carousel/owl.carousel.css">
 		<link rel="stylesheet" type="text/css" media="all" href="plugins/owl-carousel/owl.transitions.css">
@@ -23,7 +25,6 @@
 		<link rel="stylesheet" type="text/css" media="all" href="css/theme-animate.css">
 		<link rel="stylesheet" type="text/css" media="all" href="css/style.css">
 	</head>
-	<!-- <body class="sticky_menu"> -->
 		<body>
 					
 	<script src="js/jquery-2.1.0.min.js"></script>
@@ -51,7 +52,6 @@
 			<header role="banner" class="relative">
 				<!-- <span class="gradient_line"></span> -->
 				<!--top part-->
-		
 				<!--header bottom part-->
 				<section class="header_bottom_part bg_light">
 					<div class="container">
@@ -59,7 +59,7 @@
 							<!--logo-->
 							<div class="col-lg-2 col-md-2 col-sm-2 d_table_cell d_xs_block f_none v_align_m logo t_xs_align_c">
 								<a href="index.html" class="d_inline_m m_xs_top_20 m_xs_bottom_20">
-									<img src="images/mcv-logo.png" alt="">
+									<img src="images/mcv-logo.png" alt="" style="padding:10px">
 								</a>
 							</div>
 							<div class="col-lg-10 col-md-10 col-sm-10 t_align_r d_table_cell d_xs_block f_none">
@@ -81,12 +81,12 @@
 											<li class="container3d relative f_xs_none m_xs_bottom_5">
 												<a class="color_dark fs_large relative r_xs_corners" href="orange-beach.php">Orange Beach
 												</a>
-
+												
 											</li>
 											<li class="container3d relative f_xs_none m_xs_bottom_5">
 												<a class="color_dark fs_large relative r_xs_corners" href="bayfront.php">Bayfront
 												</a>
-
+												
 											</li>
 										</ul>
 									</nav>

@@ -2,6 +2,7 @@
 $pageTitle = "Romar Tower";
 $description = "";
 $imgSrc = "condos/romartower.png";
-include('../header-2.php'); ?>
+$imgCls = "padding-top:35px";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>

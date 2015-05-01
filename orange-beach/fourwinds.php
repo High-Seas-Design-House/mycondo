@@ -2,6 +2,7 @@
 $pageTitle = "Four Winds";
 $description = "";
 $imgSrc = "condos/fw.png";
-include('../header-2.php'); ?>
+$imgCls = "padding-left:50px";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>

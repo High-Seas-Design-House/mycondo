@@ -155,11 +155,12 @@
 										</figure>
 									</aside>
 								</div>
-						<!--images-->
-						<section class="col-lg-7 col-md-7 col-sm-7 m_xs_bottom_30">
-							<img src=<?php echo $imgSrc; ?>>
-						</section>
-						<!--description-->
+								
+								<!--images-->
+								<section class="col-lg-7 col-md-7 col-sm-7 m_xs_bottom_30">
+									<img src=<?php echo $imgSrc; ?> style=<?php echo $imgCls; ?>>
+								</section>
+								<!--description-->
 								<div class="mobile-hide">
 									<aside class="col-lg-5 col-md-5 col-sm-5 m_top_5" id="scroll_sidebar">
 										<figure class="m_bottom_40 m_xs_bottom_30">

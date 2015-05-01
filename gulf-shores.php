@@ -20,7 +20,7 @@ include('header.php'); ?>
 			<br>		
 		<div class="row">
 				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-11 d_xs_block w_mxs_full">
+				<div class="col-md-11 d_xs_block">
 					<table class="responsive_table">
 						<tbody>
 							<tr>

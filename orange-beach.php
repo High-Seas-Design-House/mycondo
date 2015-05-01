@@ -19,7 +19,7 @@ include('header.php'); ?>
 				<br>
 			<div class="row">
 				<div class="col-md-1">&nbsp;</div>
-				<div class="col-md-11 d_xs_block w_mxs_full">
+				<div class="col-md-11 d_xs_block">
 					<table class="responsive_table">
 						<tbody>
 							<tr>
@@ -162,16 +162,16 @@ include('header.php'); ?>
 								<td></td>
 								<td><a href="orange-beach/whitecaps.php"><strong>White Caps</strong></a></td>
 								<td></td>
-								<td><a href="orange-beach/fourwinds.php"><strong>Seaside Beach and Racquet</strong></a></td>
+								<td><a href="orange-beach/seasideb-r.php"><strong>Seaside Beach and Racquet</strong></a></td>
 							</tr>
 
 							<tr>
 								<td></td>
-								<td><a href="orange-beach/seasideb-r.php"><strong>Shoalwater</strong></a></td>
+								<td><a href="orange-beach/shoalwater.php"><strong>Shoalwater</strong></a></td>
 								<td></td>
 								<td><a href="orange-beach/sugarbeach.php"><strong>Sugar Beach</strong></a></td>
 								<td></td>
-								<td><a href="orange-beach/shoalwater.php"><strong>Four Winds</strong></a></td>								
+								<td><a href="orange-beach/fourwinds.php"><strong>Four Winds</strong></a></td>								
 							</tr>
 
 						</tbody>

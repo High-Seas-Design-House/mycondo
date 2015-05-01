@@ -2,6 +2,7 @@
 $pageTitle = "Seaside Beach and Racquet Club";
 $description = "";
 $imgSrc = "condos/sbr.png";
-include('../header-2.php'); ?>
+$imgCls = "padding-top:30px";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>

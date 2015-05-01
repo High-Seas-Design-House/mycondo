@@ -2,6 +2,7 @@
 $pageTitle = "Turquoise Place";
 $description = "";
 $imgSrc = "condos/turquoise.png";
-include('../header-2.php'); ?>
+$imgCls = "padding-top:80px";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>

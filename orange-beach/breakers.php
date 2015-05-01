@@ -2,6 +2,7 @@
 $pageTitle = "Breakers";
 $description = "";
 $imgSrc = "condos/breakers.png";
-include('../header-2.php'); ?>
+$imgCls = "padding:75px 5px 5px 75px";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>
