@@ -2,6 +2,7 @@
 $pageTitle = "Martinique";
 $description = "";
 $imgSrc = "condos/martinique.png";
-include('../header-2.php'); ?>
+$imgCls = "padding-top:100px";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>

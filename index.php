@@ -10,7 +10,7 @@
 					<ul>
 						<li data-transition="fade" data-slotamount="10">
 						   <img src="images/heron.jpg" alt="" data-bgfit="cover" data-bgposition="center center">
-						   <div class="caption str" data-x="left" data-y="108" data-speed="700"><h1 class="color_light fw_light">Welcome to<!-- </h1> -->
+						   <div class="caption str" data-x="left" data-y="108" data-speed="700"><h1 class="slider_title_2 color_light fw_light">Welcome to<!-- </h1> -->
 						   		<!-- <p class="title_size_1 fw_ex_bold color_light tt_uppercase m_bottom_25"> --><span class="tt_uppercase"> YOUR </span><br>
 						   		<span class="fw_ex_bold"> Alabama Condo Value Directory</span></h1></div>
 						</li>
@@ -18,11 +18,11 @@
 						   <img src="images/ob.jpg" alt="" data-bgfit="cover" data-bgposition="center center">
 
 						   <div class="caption sfl str" data-x="110" data-y="160" data-speed="700" ><!--  -->
-						   		<h1 class="color_light fw_ex_bold">Get Your Investment</h1>
+						   		<h1 class="slider_title_2 color_light fw_ex_bold">Get Your Investment</h1>
 						   </div>
 
 						   <div class="caption sfl str" data-x="490" data-y="250" data-hoffset="-118" data-speed="800" data-start="1500">
-						   		<h1 class="color_light fw_ex_bold" > Working for You!</h1>
+						   		<h1 class="slider_title_2 color_light fw_ex_bold"> Working for You!</h1>
 						   </div>
 						</li>
 					</ul>

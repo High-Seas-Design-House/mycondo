@@ -2,6 +2,7 @@
 $pageTitle = "Southern Sands";
 $description = "";
 $imgSrc = "condos/southernsands.png";
-include('../header-2.php'); ?>
+$imgCls = "padding:85px 0 0 40px";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>

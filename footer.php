@@ -18,8 +18,8 @@
 								</article>
 							</div>
 						</div>
-						<section class="footer_bottom_part">&nbsp;
-						</section>
+						<!-- <section class="footer_bottom_part">&nbsp;
+						</section> -->
 					<!-- </div> -->
 				</section>
 			</footer>

@@ -2,6 +2,7 @@
 $pageTitle = "Legacy Key";
 $description = "";
 $imgSrc = "condos/lk.png";
-include('../header-2.php'); ?>
+$imgCls = "padding:90px 2px 2px 45px";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>

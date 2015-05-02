@@ -2,6 +2,7 @@
 $pageTitle = "Oceania ";
 $description = "";
 $imgSrc = "condos/oceania.png";
-include('../header-2.php'); ?>
+$imgCls = "padding-left:135px ";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>

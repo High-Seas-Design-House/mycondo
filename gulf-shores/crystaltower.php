@@ -2,6 +2,7 @@
 $pageTitle = "Crystal Tower ";
 $description = "";
 $imgSrc = "condos/crystaltower.png";
-include('../header-2.php'); ?>
+$imgCls = "padding:75px 2px 2px 55px ";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>

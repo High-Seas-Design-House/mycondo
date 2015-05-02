@@ -89,14 +89,14 @@
 										</ul>
 									</nav>
 									<!--searchform button-->
-									<div class="relative d_inline_m search_buttons d_xs_none">
+									<!-- <div class="relative d_inline_m search_buttons d_xs_none">
 										<button class="icon_wrap_size_2 circle color_grey_light_2 tr_all color_blue_hover"><i class="icon-cancel"></i></button>
 										<button class="icon_wrap_size_2 active circle color_grey_light_2 tr_all color_blue_hover"><i class="icon-search"></i></button>
-									</div>
+									</div> -->
 									<!--searchform-->
-									<form role="search" class="bg_light animate_ vc_child t_align_r fw_light tr_all trf_xs_none">
+									<!-- <form role="search" class="bg_light animate_ vc_child t_align_r fw_light tr_all trf_xs_none">
 										<input type="text" name="search" placeholder="Search" class="r_corners d_inline_m">
-									</form>
+									</form> -->
 								</div>
 							</div>
 						</div>
@@ -105,13 +105,7 @@
 			</header>
 
 
-			<section class="mobile-hide page_title_2 bg_gradient t_align_c relative wrapper">
-				<div class="container">
-					<h1 class="color_light fw_light "> <?php echo $pageTitle; ?> </h1>
-				</div>
-			</section>
-
-			<section class="mobile-show page_title_2 bg_gradient t_align_c relative wrapper"><!-- page_title_3 -->
+			<section class="page_title_3 bg_gradient t_align_c relative wrapper">
 				<div class="container">
 					<h1 class="color_light fw_light "> <?php echo $pageTitle; ?> </h1>
 				</div>

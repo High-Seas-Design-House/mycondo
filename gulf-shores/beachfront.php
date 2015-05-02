@@ -2,6 +2,7 @@
 $pageTitle = "Beachfront";
 $description = "";
 $imgSrc = "condos/beachfront.png";
-include('../header-2.php'); ?>
+$imgCls = "padding:50px";
+include('../inc/header-3.php'); ?>
 
 <?php include('../footer.php'); ?>

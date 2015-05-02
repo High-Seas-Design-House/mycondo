@@ -3846,7 +3846,7 @@ input[class*="_limit"]{
 }
 .footer_top_part {
 	border-top:2px solid #1d4180;
-	padding:10px 15px 0px 15px;
+	padding:10px 15px;
 }
 .footer_top_part h4{
 	font-size: 20px;
@@ -4864,8 +4864,9 @@ input[class*="_limit"]{
 		width:100%;
 	}
 	.page_title_3{
-	background:url("../beachcondo.jpg") no-repeat;
+		padding:30px;
 	}
+
 }
 @media only screen and (max-width:390px){
 	.table_type_5 .quantity input[type="text"]{
@@ -4898,7 +4899,9 @@ input[class*="_limit"]{
 	.f_mxs_none{
 		float:none;
 	}
-
+	.r_slider h1 {
+		font-size:16px;
+	}
 
 }
 
