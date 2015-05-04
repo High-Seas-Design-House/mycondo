@@ -2259,8 +2259,25 @@ table tr th:last-child{
 	width:110px;
 }
 .responsive_table tbody tr:nth-child(2n+1){
-		background:#ebf8fc;
-	}
+	background:#ebf8fc;
+}
+
+.container.condos{
+	display: inline-block;
+}
+.container.condos a{
+	font-size: 17px;
+	padding-bottom: 10px;
+}
+.container.condos .row{
+	margin-bottom:5px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.container.condos .row:nth-child(2n+1){
+	background:#ebf8fc;
+
+}
 
 /* -----------------------------------
 
@@ -4808,7 +4825,7 @@ input[class*="_limit"]{
 		border-right: none;
 		border-top:none;
 		width:100%;
-		text-align: left;
+		/*text-align: left;*/
 	}
 	.responsive_table tbody tr:nth-child(2n+1){
 		background:#fff;
@@ -4818,8 +4835,8 @@ input[class*="_limit"]{
 		content: attr(data-title);
 		position:absolute;
 		left:15px;
-		top:90%;
-		width:100%;
+		top:50%; /*90*/
+		width:40%; /*100*/
 		-webkit-transform:translateY(-50%);
 		-moz-transform:translateY(-50%);
 		-o-transform:translateY(-50%);
@@ -4866,7 +4883,6 @@ input[class*="_limit"]{
 	.page_title_3{
 		padding:30px;
 	}
-
 }
 @media only screen and (max-width:390px){
 	.table_type_5 .quantity input[type="text"]{

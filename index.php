@@ -1,6 +1,6 @@
 <?php
 	$pageTitle = "My Condo Value | Home";
-	$description = "";
+	$description = "You deserve to get the most you can out of your investment. My Condo Value is here to make sure you do.";
 	include('inc/header.php'); ?>
 		<!--head libs-->
 
@@ -9,13 +9,13 @@
 				<div class="r_slider">
 					<ul>
 						<li data-transition="fade" data-slotamount="10">
-						   <img src="images/heron.jpg" alt="" data-bgfit="cover" data-bgposition="center center">
+						   <img src="images/heron.jpg" alt="Alabama Gulf Coast" data-bgfit="cover" data-bgposition="center center">
 						   <div class="caption str" data-x="left" data-y="108" data-speed="700"><h1 class="slider_title_2 color_light fw_light">Welcome to<!-- </h1> -->
 						   		<!-- <p class="title_size_1 fw_ex_bold color_light tt_uppercase m_bottom_25"> --><span class="tt_uppercase"> YOUR </span><br>
 						   		<span class="fw_ex_bold"> Alabama Condo Value Directory</span></h1></div>
 						</li>
 						<li data-transition="fade" data-slotamount="10">
-						   <img src="images/ob.jpg" alt="" data-bgfit="cover" data-bgposition="center center">
+						   <img src="images/ob.jpg" alt="Alabama Gulf Coast Condo Value Finder" data-bgfit="cover" data-bgposition="center center">
 
 						   <div class="caption sfl str" data-x="110" data-y="160" data-speed="700" ><!--  -->
 						   		<h1 class="slider_title_2 color_light fw_ex_bold">Get Your Investment</h1>
@@ -37,7 +37,6 @@
 					<h3 class="color_dark fw_light m_bottom_15 t_align_c" data-appear-animation="bounceInLeft">Select an Area to Discover Your Value Information</h3>
 					<br>
 					<div class="row" data-appear-animation="fadeInUp" data-appear-animation-delay="800">
-						<!-- <div class="owl-carousel" data-nav="fp_nav_" data-plugin-options='{"itemsCustom" : [[992,3],[768,2],[100,1]], "singleItem" : false}'> -->
 							<!--project-->
 							<div class="row t_align_c">
 								<div class="col-lg-4 col-md-4 col-sm-4 m_xs_bottom_30">
@@ -80,7 +79,6 @@
 								</div>
 
 							</div>
-						<!-- </div> -->
 					</div>
 				</div>
 			</section>

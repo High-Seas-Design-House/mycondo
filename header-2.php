@@ -8,7 +8,7 @@
 		<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0,user-scalable=no">
 		<meta name="author" content="">
 		<meta name="keywords" content="">
-		<meta name="description" content="">
+		<meta name="description" content=<?php echo $description; ?>>
 		<link rel="shortcut icon" type="image/x-icon" href="../images/mcvicon.jpg">
 		<!--web fonts-->
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic' rel='stylesheet' type='text/css'>
@@ -56,7 +56,7 @@
 						<div class="d_table w_full d_xs_block">
 							<!--logo-->
 							<div class="col-lg-2 col-md-2 col-sm-2 d_table_cell d_xs_block f_none v_align_m logo t_xs_align_c">
-								<a href="index.html" class="d_inline_m m_xs_top_20 m_xs_bottom_20">
+								<a href="index.php" class="d_inline_m m_xs_top_20 m_xs_bottom_20">
 									<img src="../images/mcv-logo.png" alt="My Condo Value Logo" style="padding:10px">
 								</a>
 							</div>
