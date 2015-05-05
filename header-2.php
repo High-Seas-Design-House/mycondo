@@ -56,7 +56,7 @@
 						<div class="d_table w_full d_xs_block">
 							<!--logo-->
 							<div class="col-lg-2 col-md-2 col-sm-2 d_table_cell d_xs_block f_none v_align_m logo t_xs_align_c">
-								<a href="index.php" class="d_inline_m m_xs_top_20 m_xs_bottom_20">
+								<a href="../index.php" class="d_inline_m m_xs_top_20 m_xs_bottom_20">
 									<img src="../images/mcv-logo.png" alt="My Condo Value Logo" style="padding:10px">
 								</a>
 							</div>
@@ -68,7 +68,7 @@
 									<!--main navigation-->
 									<nav role="navigation" class="d_inline_m d_xs_none m_xs_right_0 m_right_15 t_align_l m_xs_bottom_15">
 										<ul class="hr_list main_menu fw_light">
-											<li class="current container3d relative f_xs_none m_xs_bottom_5">
+											<li class="container3d relative f_xs_none m_xs_bottom_5">
 												<a class="color_dark fs_large relative r_xs_corners" href="../index.php">Home
 												</a>
 											</li>
@@ -136,9 +136,9 @@
 															</li>
 														</ul>
 													</form>
-													<br><br>
+													<br>
 														<div class="t_align_c">
-															<h5 class="color_dark m_bottom_20">Call Today<br> For a Special Offer:</h5>
+															<h4 class="color_dark m_bottom_20">Call Today<br> For a Special Offer:</h4>
 																<div class="d_inline_m icon_wrap_size_1 color_blue circle m_right_10">
 																	<i class="icon-phone-1"></i>
 																</div>

@@ -1,6 +1,7 @@
  <?php
 $pageTitle = "My Condo Value | Gulf Shores";
 $description = "Find your Gulf Shores condo, and discover the true value. This list starts at the Alabama State Park and goes west.";
+$current = "current";
 include('header.php'); ?>
 
 

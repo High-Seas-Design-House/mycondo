@@ -76,20 +76,20 @@
 									<!--main navigation-->
 									<nav role="navigation" class="d_inline_m d_xs_none m_xs_right_0 m_right_15 t_align_l m_xs_bottom_15">
 										<ul class="hr_list main_menu fw_light">
-											<li class="current container3d relative f_xs_none m_xs_bottom_5">
+											<li class="container3d relative f_xs_none m_xs_bottom_5">
 												<a class="color_dark fs_large relative r_xs_corners" href="index.php">Home
 												</a>
 											</li>
-											<li class="container3d relative f_xs_none m_xs_bottom_5">
+											<li class="<?php echo $current; ?> container3d relative f_xs_none m_xs_bottom_5">
 												<a class="color_dark fs_large relative r_xs_corners" href="gulf-shores.php">Gulf Shores
 												</a>
 											</li>
-											<li class="container3d relative f_xs_none m_xs_bottom_5">
+											<li class="<?php echo $menu; ?> container3d relative f_xs_none m_xs_bottom_5">
 												<a class="color_dark fs_large relative r_xs_corners" href="orange-beach.php">Orange Beach
 												</a>
 												
 											</li>
-											<li class="container3d relative f_xs_none m_xs_bottom_5">
+											<li class="<?php echo $item; ?> container3d relative f_xs_none m_xs_bottom_5">
 												<a class="color_dark fs_large relative r_xs_corners" href="bayfront.php">Bayfront
 												</a>
 												

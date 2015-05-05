@@ -1,6 +1,7 @@
  <?php
 $pageTitle = "My Condo Value | Bayfront";
 $description = "Find your Bayfront condo, and discover the true value. This list starts at the Alabama/Florida line, and goes west.";
+$item = "current";
 include('header.php'); ?>
 
 

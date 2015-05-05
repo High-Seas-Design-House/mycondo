@@ -1,6 +1,7 @@
 <?php
 $pageTitle = "My Condo Value | Orange Beach";
 $description = "Find your Orange Beach condo, and discover the true value. This list starts at the Alabama/Florida line, and goes west.";
+$menu = "current";
 include('header.php'); ?>
 
 				<section class="page_title translucent_bg_purple image_fixed image_bg_10 t_align_c relative wrapper">
