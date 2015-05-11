@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Walker Key";
 $description = "";
-$imgSrc = "condos/";
+$imgSrc = "condos/walkerkey.jpg";
 include('../header-2.php'); ?>
 
 <?php include('../footer.php'); ?>

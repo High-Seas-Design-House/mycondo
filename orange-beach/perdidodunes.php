@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Perdido Dunes";
 $description = "";
-$imgSrc = "condos/perdidodunes.png";
+$imgSrc = "condos/p-dunes.jpg";
 include('../header-2.php'); ?>
 
 <?php include('../footer.php'); ?>

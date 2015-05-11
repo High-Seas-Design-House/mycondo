@@ -88,15 +88,7 @@
 											</li>
 										</ul>
 									</nav>
-									<!--searchform button-->
-									<!-- <div class="relative d_inline_m search_buttons d_xs_none">
-										<button class="icon_wrap_size_2 circle color_grey_light_2 tr_all color_blue_hover"><i class="icon-cancel"></i></button>
-										<button class="icon_wrap_size_2 active circle color_grey_light_2 tr_all color_blue_hover"><i class="icon-search"></i></button>
-									</div> -->
-									<!--searchform-->
-									<!-- <form role="search" class="bg_light animate_ vc_child t_align_r fw_light tr_all trf_xs_none">
-										<input type="text" name="search" placeholder="Search" class="r_corners d_inline_m">
-									</form> -->
+
 								</div>
 							</div>
 						</div>
@@ -114,80 +106,76 @@
 			<div class="section_offset" style="background-color:#ececec;">
 				<div class="container clearfix">
 					<div class="row relative">
-
-						<div class="mobile-show">
-									<aside class="col-lg-5 col-md-5 col-sm-5 m_top_5" id="scroll_sidebar">
-										<figure class="m_bottom_40 m_xs_bottom_30">
-											<div class="d_table_cell d_xs_block v_align_m"><!-- t_align_c f_none -->
-												<div class="create_account_form_wrap r_corners d_inline_b w_xs_full">
-													<h4 class="fw_light color_dark t_align_c m_bottom_23"><strong>Sign Up Now</strong><br><br> It's Time To Get Your Investment Working For You.</h4>
-													<form class="create_account_form">
-														<ul>
-															<li class="m_bottom_10 m_xs_bottom_15 relative">
-																<i class="icon-mail-alt login_icon fs_medium color_grey_light_2"></i>
-																<input type="email" name="" placeholder="Email" class="r_corners bg_light w_full border_none">
-															</li>
-															<li class="m_bottom_10 m_xs_bottom_15 relative">
-																<i class="icon-user login_icon fs_medium color_grey_light_2"></i>
-																<input type="text" name="" placeholder="Name" class="r_corners bg_light w_full border_none">
-															</li>
-															<li class="t_align_c">
-																<button class="button_type_3 d_inline_b color_blue r_corners tr_all fw_light">Submit</button>
-															</li>
-														</ul>
-													</form>
-													<br>
-														<div class="t_align_c">
-															<h4 class="color_dark m_bottom_20">Call Today<br> For a Special Offer:</h4>
-																<div class="d_inline_m icon_wrap_size_1 color_blue circle m_right_10">
-																	<i class="icon-phone-1"></i>
-																</div>
-																855-LISTN4U(547-8648)
-														</div>
-												</div>
-											</div>
-										</figure>
-									</aside>
-								</div>
 						<!--images-->
-						<section class="col-lg-7 col-md-7 col-sm-7 m_xs_bottom_30">
+						<section class="col-lg-7 col-md-7 col-sm-7 m_xs_bottom_30" style="padding-top:15px" >
 							<img src=<?php echo $imgSrc; ?>>
 						</section>
 						<!--description-->
-								<div class="mobile-hide">
-									<aside class="col-lg-5 col-md-5 col-sm-5 m_top_5" id="scroll_sidebar">
+									<aside class="col-lg-5 col-md-5 col-sm-5 m_top_5">
 										<figure class="m_bottom_40 m_xs_bottom_30">
-											<div class="d_table_cell d_xs_block v_align_m"><!-- t_align_c f_none -->
+											<div class="d_table_cell d_xs_block v_align_m">
 												<div class="create_account_form_wrap r_corners d_inline_b w_xs_full">
 													<h4 class="fw_light color_dark t_align_c m_bottom_23"><strong>Sign Up Now</strong><br><br> It's Time To Get Your Investment Working For You.</h4>
-													<form class="create_account_form">
-														<ul>
-															<li class="m_bottom_10 m_xs_bottom_15 relative">
-																<i class="icon-mail-alt login_icon fs_medium color_grey_light_2"></i>
-																<input type="email" name="" placeholder="Email" class="r_corners bg_light w_full border_none">
-															</li>
-															<li class="m_bottom_10 m_xs_bottom_15 relative">
-																<i class="icon-user login_icon fs_medium color_grey_light_2"></i>
-																<input type="text" name="" placeholder="Name" class="r_corners bg_light w_full border_none">
-															</li>
-															<li class="t_align_c">
-																<button class="button_type_3 d_inline_b color_blue r_corners tr_all fw_light">Submit</button>
-															</li>
-														</ul>
-													</form>
-													<br><br>
-														<div class="t_align_c">
-															<h5 class="color_dark m_bottom_20">Call Today<br> For a Special Offer:</h5>
+														
+													<div class="form_p_l">
+														<div id="wufoo-z1n0frd7199sm5r">
+															Fill out my <a href="https://dgrantham.wufoo.com/forms/z1n0frd7199sm5r">online form</a>.
+														</div>
+
+														<script type="text/javascript">
+														var zc0liki1blnysh;
+														(function(d, t) {
+														    {
+														       var s = d.createElement(t),
+														           options = {
+														               'userName': 'dgrantham',
+														               'formHash': 'z1n0frd7199sm5r',
+														               'autoResize': true,
+														               'height': '400',
+														               'async': true,
+														               'host': 'wufoo.com',
+														               'header': 'hide',
+														               'ssl': true,
+														               'defaultValues': 'field4=' + document.title 
+														             	 
+
+														           };
+														       s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'wufoo.com/scripts/embed/form.js';
+														       s.onload = s.onreadystatechange = function() {
+														           var rs = this.readyState;
+														           if (rs)
+														               if (rs != 'complete')
+														                   if (rs != 'loaded') return;
+														           try {
+														               zc0liki1blnysh = new WufooForm();
+														               zc0liki1blnysh.initialize(options);
+														               zc0liki1blnysh.display();
+														           } catch (e) {}
+														       };
+														       var scr = d.getElementsByTagName(t)[0],
+														           par = scr.parentNode;
+														       par.insertBefore(s, scr);
+														   }
+														})(document, 'script')
+
+														 </script>
+
+													</div>
+
+															<div class="t_align_c">
+																<h5 class="color_dark m_bottom_20">Call Today<br> For a Special Offer:</h5>
 																<div class="d_inline_m icon_wrap_size_1 color_blue circle m_right_10">
 																	<i class="icon-phone-1"></i>
 																</div>
 																855-LISTN4U(547-8648)
-														</div>
-												</div>
+															</div>
+
+													 <!-- </div> -->
+															
 											</div>
-										</figure>
-									</aside>
-								</div>
+										</div>
+									</figure>
+								</aside>
 
 					</div>
 				</div>

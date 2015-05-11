@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Dolphin Harbor";
 $description = "";
-$imgSrc = "condos/dh.png";
+$imgSrc = "condos/d-harbor.jpg";
 include('../header-2.php'); ?>
 
 <?php include('../footer.php'); ?>

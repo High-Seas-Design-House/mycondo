@@ -25,13 +25,13 @@
 		<link rel="stylesheet" type="text/css" media="all" href="css/theme-animate.css">
 		<link rel="stylesheet" type="text/css" media="all" href="css/style.css">
 	</head>
-		<body style="background: rgba(14,118,188,1);
+		<body> <!-- style="background: rgba(14,118,188,1);
 				background: -moz-linear-gradient(top, rgba(14,118,188,1) 0%, rgba(14,118,188,1) 7%, rgba(247,249,249,1) 92%, rgba(254,254,254,1) 100%);
 				background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(14,118,188,1)), color-stop(7%, rgba(14,118,188,1)), color-stop(92%, rgba(247,249,249,1)), color-stop(100%, rgba(254,254,254,1)));
 				background: -webkit-linear-gradient(top, rgba(14,118,188,1) 0%, rgba(14,118,188,1) 7%, rgba(247,249,249,1) 92%, rgba(254,254,254,1) 100%);
 				background: -o-linear-gradient(top, rgba(14,118,188,1) 0%, rgba(14,118,188,1) 7%, rgba(247,249,249,1) 92%, rgba(254,254,254,1) 100%);
 				background: -ms-linear-gradient(top, rgba(14,118,188,1) 0%, rgba(14,118,188,1) 7%, rgba(247,249,249,1) 92%, rgba(254,254,254,1) 100%);
-				background: linear-gradient(to bottom, rgba(14,118,188,1) 0%, rgba(14,118,188,1) 7%, rgba(247,249,249,1) 92%, rgba(254,254,254,1) 100%);">
+				background: linear-gradient(to bottom, rgba(14,118,188,1) 0%, rgba(14,118,188,1) 7%, rgba(247,249,249,1) 92%, rgba(254,254,254,1) 100%);" -->
 					
 	<script src="js/jquery-2.1.0.min.js"></script>
 	<script src="plugins/jquery.queryloader2.min.js"></script>

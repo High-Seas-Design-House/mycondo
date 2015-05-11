@@ -4011,6 +4011,19 @@ input[class*="_limit"]{
 
 /* -----------------------------------
 
+	FORM CHANGES
+
+------------------------------------- */
+
+.form_p_l {
+	padding-left:90px;
+}
+
+
+
+
+/* -----------------------------------
+
 	18. Responsive changes
 
 ------------------------------------- */
@@ -4875,10 +4888,10 @@ input[class*="_limit"]{
 		line-height: 60px;
 		font-size:30px;
 	}
-	/*.logo{
-		width: 65%;
-		padding-right:0;
-		padding-left: 15px;	}*/
+	.form_p_l {
+		padding-left:35px;
+	}
+
 }
 @media only screen and (max-width:500px){
 	.product_view{
@@ -4886,6 +4899,12 @@ input[class*="_limit"]{
 	}
 	.page_title_3{
 		padding:30px;
+	}
+
+	.container.condos{
+		text-align: center;
+		vertical-align: middle;
+		padding-left: 50px;
 	}
 }
 @media only screen and (max-width:390px){

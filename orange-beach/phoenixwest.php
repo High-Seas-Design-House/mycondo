@@ -1,7 +1,7 @@
 <?php
 $pageTitle = "Phoenix West";
 $description = "";
-$imgSrc = "condos/pw.png";
+$imgSrc = "condos/p-west.jpg";
 $imgCls = "padding:30px 5px 5px 35px";
 include('../inc/header-3.php'); ?>
 
